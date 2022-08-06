@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Buscardor de CEP com react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto para buscar buscar endereços a partir do cep utilizando API  "Viacep"
 
-## Available Scripts
+## 🚀 Começando
 
-In the project directory, you can run:
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-### `npm start`
+Consulte **Implantação** para saber como implantar o projeto.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 📋 Pré-requisitos
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+IDE Visual Studio Code
+Node.js
+React
+React-Icons
+React-axios
 
-### `npm test`
+### 🔧 Instalação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Para iniciarmos será necessário abrir o terminal no caminho correto da pasta do projeto.
+Instale o React, React Dom, React Axios, React Icons
 
-### `npm run build`
+Agora você deve digitar em seu terminal: npm start (isso irá abrir uma pagina na porta 3000 e starta a execução do projeto)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/91481122/183252135-2b97fa67-11b4-412b-9db1-c4116f51b60b.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 📦 Desenvolvimento
+.
+Foi desenvolvido uma pagina para buscar endereços a partir do cep fazendo uma requisição get na API Viacep
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Construído com
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Tecnologias e linguagens utilizadas no projeto:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* Linguagem: 
+  - JavaScript
+* Tecnologias:
+  - React JS
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## ✒️ Autores
 
-## Learn More
+* **Victor Mateus Rodrigues Fonseca** - ([https://github.com/DevzVictor)])
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🎁 Expressões de gratidão
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Obrigada a todos envolvidos nesse processo de construção 📢
+* Obrigado a todos que me apoiam nesse caminhada 🤓.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
