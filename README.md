@@ -23,8 +23,7 @@ Instale o React, React Dom, React Axios, React Icons
 
 Agora você deve digitar em seu terminal: npm start (isso irá abrir uma pagina na porta 3000 e starta a execução do projeto)
 
-
-![image](https://user-images.githubusercontent.com/91481122/183252135-2b97fa67-11b4-412b-9db1-c4116f51b60b.png)
+![image](https://user-images.githubusercontent.com/91481122/183252237-8d353eda-9ac7-4f4f-81d2-f60450f2ab88.png)
 
 
 ## 📦 Desenvolvimento
