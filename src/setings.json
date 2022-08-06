@@ -1,0 +1,5 @@
+{
+  "files.autoSave": "afterDelay",
+  "auto-close-tag.fullMode": true,
+  "editor.autoClosingQuotes": "always"
+}
